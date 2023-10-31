@@ -1,0 +1,25 @@
+.column{
+	width: 100%;
+}
+
+@media (min-width: 48em) {
+	.columns {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		width: 100%;
+	}
+}
+
+.resizedTextbox {
+	width: 30px;
+	height: 20px;
+}
+
+table td{
+	background-color: rgb(104,177,137);
+}
+
+table td#typ2 {
+	background-color: rgb(148,98,206);
+}

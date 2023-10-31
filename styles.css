@@ -1,0 +1,9 @@
+img {
+width: 100px;
+height: auto
+}
+
+
+body {
+  background-image: url("./pictures/background.png");
+}
